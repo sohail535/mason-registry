@@ -14,13 +14,13 @@ source:
   download:
     - target: [darwin_x64, darwin_arm64]
       files:
-        lombok.jar: https://projectlombok.org/lombok.jar
+        lombok.jar: https://projectlombok.org/downloads/lombok-1.18.32.jar
     - target: linux
       files:
-        lombok.jar: https://projectlombok.org/lombok.jar
+        lombok.jar: https://projectlombok.org/downloads/lombok-1.18.32.jar
     - target: win
       files:
-        lombok.jar: https://projectlombok.org/lombok.jar
+        lombok.jar: https://projectlombok.org/downloads/lombok-1.18.32.jar
 
 share:
   lombok/lombok.jar: lombok.jar
